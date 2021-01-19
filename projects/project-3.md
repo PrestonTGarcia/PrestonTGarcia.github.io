@@ -13,7 +13,7 @@ labels:
 summary: A side project I did to compute project 3 on a computational physics project list.
 ---
 
-<img class="ui image" src="../images/WalkQuestion.png">
+<img class="ui image" src="../images/WalkQuestion.PNG">
 
 This program is a simulation of a person who can only walk one unit North, East, West, or South and is randomly generated which direction that the walker goes. I used Java to program this simulation, and had the program compute the answer to the first question in the project questions. In the [list of computational physics projects](http://ww2.odu.edu/~agodunov/teaching/phys420/projects.html), this project is project three. Although this project only answers number 1, I plan to make more methods to answer the other two questions of the project, and eventually have a visualization for this project.
 
