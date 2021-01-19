@@ -1,61 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/RandWalk.png
+title: Random Walker
+permalink: projects/Random_Walker
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-01-19
 labels:
-  - Lisp
+  - Java
+  - Computational Physics
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A side project I did to compute project 3 on a computational physics project list.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/WalkQuestion.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This program is a simulation of a person who can only walk one unit North, East, West, or South and is randomly generated which direction that the walker goes. I used Java to program this simulation, and had the program compute the answer to the first question in the project questions. In the [list of computational physics projects](http://ww2.odu.edu/~agodunov/teaching/phys420/projects.html), this project is project three. Although this project only answers number 1, I plan to make more methods to answer the other two questions of the project, and eventually have a visualization for this project.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Doing this project helped me experience more of the Math library of Java I haven't used before, for example, using the log function to make a log with a custom base, or using the sqrt function from the Math library. 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/PrestonTGarcia/RandomWalk"><i class="large github icon "></i>PrestonTGarcia/RandomWalk</a>
 
