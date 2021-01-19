@@ -11,7 +11,7 @@ labels:
   - Computational Physics
   - GitHub
   - Data Visualization
-summary: A GUI I created as a side project to visualize projectile motion.
+summary: A Graphical User Interface I created as a side project to visualize projectile motion.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Projectile Motion.PNG">
