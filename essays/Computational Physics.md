@@ -5,13 +5,14 @@ title: Technology and Discoveries
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-20
 labels:
-  - Software Engineering
-  - Learning
+  - Computer Science
+  - Physics
+  - Computational Physics
 ---
 
 <img class="ui tiny left circular floated image" src="../images/computational_physics_diagram.png">
 
-My dream when I was a small child in elementary school was to become an astronaut, as I always thought of space as a very interesting and mysterious place that I would have loved to explore. Learning and making discoveries were always some of the most enjoyable parts of my life, whether that be through education or in any other endeavors. Although being an astronaut isn't my dream in the present, this dream was a big influence on what my current dream is.
+My dream when I was a young child in elementary school was to become an astronaut, as I always thought of space as a very interesting and mysterious place that I would have loved to explore. Learning and making discoveries were always some of the most enjoyable parts of my life, whether that be through education or in any other endeavors. Although being an astronaut isn't my dream in the present, this dream was a big influence on what my current dream is.
 
 <img class="ui tiny left circular floated image" src="../images/Code_image.jpg">
 
