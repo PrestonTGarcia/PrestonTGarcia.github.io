@@ -53,33 +53,39 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Mililani High School, Mililani, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "2015-08-01",
+      "endDate": "2019-05-19",
       "gpa": "",
-      "courses": [
+      "courses": ["AP Computer Science Principles", "AP Physics", "AP Calculus BC"
       ]
-    }
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "gpa": "3.98",
+      "courses": ["ICS 211, ICS 212, ICS 241, IS 250H"
+      ]
   ],
   "work": [
     {
