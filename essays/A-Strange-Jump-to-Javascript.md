@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/Javascript.png">
 
 Prior to learning Javascript as I have been in ICS 314, I thought it would be similar to other languages I have learned in the past, such as Java, Python, or C++; however, after doing the basic Javascript and ES6 modules on FreeCodeCamp, I have come to realize that Javascript is way different from any other programming language I have studied before, and can have way different syntax or functionalities than what I had done before.
 
