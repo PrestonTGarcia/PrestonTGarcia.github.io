@@ -15,14 +15,14 @@ Prior to learning Javascript as I have been in ICS 314, I thought it would be si
 
 Take for example, the arrow function in Javascript shown below:
 
-```
+```Javascript
 const myFunc = () => {
     const myVar = “value”;
     return myVar;
 }
 ```
 Compared to the Python script below:
-```
+```Python
 def myFunc():
   myVar = "value"
   return myVar
