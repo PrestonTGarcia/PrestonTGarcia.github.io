@@ -69,11 +69,11 @@
   "education": [
     {
       "institution": "Mililani High School, Mililani, HI",
-      "area": "",
-      "studyType": "",
+      "area": "General Education",
+      "studyType": "High School Diploma",
       "startDate": "2015-08-01",
       "endDate": "2019-05-19",
-      "gpa": "",
+      "gpa": "3.4",
       "courses": ["AP Computer Science Principles", "AP Physics", "AP Calculus BC"
       ]
     },
@@ -82,62 +82,74 @@
       "area": "Computer Science",
       "studyType": "A.S.",
       "startDate": "2019-08-01",
-      "endDate": "Present",
+      "endDate": "Present (expected Spring, 2021)",
       "gpa": "3.98",
-      "courses": ["ICS 211, ICS 212, ICS 241, IS 250H"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "courses": ["ICS 211, ICS 212, ICS 241, IS 250H, PHYS 152 (current)"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present (expected Spring, 2023",
+      "gpa": "",
+      "courses": ["ICS 314(current), ICS 311(current)"
+      ]
+  ],
+  "work": [
+    {
+      "company": "Leeward Community College Math Lab",
+      "position": "Math Lab Student Assistant",
+      "website": "https://www.leeward.hawaii.edu/mathlab",
+      "startDate": "2019-10-30",
+      "endDate": "Present",
+      "summary": "Tutor students in MATH classes up to MATH 244",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Log students tutored onto spreadsheets.",
+        "Tutor students in Math courses taken before with textbooks if needed.",
+        "Work via Zoom due to COVID-19."
+      ]
+    },
+    {
+      "company": "Leeward Community College Learning Resource Center",
+      "position": "Content Tutor",
+      "website": "http://www2.leeward.hawaii.edu/lrc/",
+      "startDate": "2020-09-07",
+      "endDate": "Present",
+      "summary": "Tutor students in classes that I was assigned to.",
+      "highlights": [
+        "Tutor Leeward Community College students in ICS courses.",
+        "Tutor Leeward Community College students in JPN courses.",
+        "Hold review sessions if requested by professors."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Leeward Community College Hanai Ia Leeward",
+      "website": "https://hanaiia.wixsite.com/leewardcc",
+      "position": "Ambassador",
+      "startDate": "2020-08-06",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Create website for Hanai Ia Leeward and help out at food distributions",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped distribute food to students who signed up.",
+        "Created website for Hanai Ia Leeward using Wix.",
+        "Organized canned food in slow hours."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Mililani High School FIRST Robotics",
+      "website": "https://mililanirobotics.org/",
+      "position": "Mentor",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "summary": "Mentored high school students in FIRST Robotics",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helped programming subteam with programming problems and practices.",
+        "Guided lead in learning programming over summer.",
+        "Assisted in coaching FIRST Tech Challenge and FIRST Lego League competitions"
       ]
     }
   ],
