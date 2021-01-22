@@ -6,7 +6,6 @@ title: Leading with Service
 date: 2021-01-20
 labels:
   - Leadership
-  - Software Engineering
 ---
 
 <img class="ui tiny right spaced image" src="../images/Chess_Leadership.jpg">
