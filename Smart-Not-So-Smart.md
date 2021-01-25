@@ -17,7 +17,7 @@ Questions are an essential part of not only the software engineering field, but 
 
 After reading ["How To Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond, I was able to identify what is a smart question, what isn't a smart question, and what the smartest questions are. Not-so-smart questions often lack the details needed to solve the problem, and don't make it clear what the problem is, and lead to more questions asked as a response, instead of a clear answer that "solves" the problem introduced. Smart and smartest questions include details to identify the problem, as well as other details that might lead to the solution to the questions such as what type of environment is being used, and what's already been tried before to solve the problem. To show what each degree of "smartness" in a question looks like, I explored [StackOverflow](https://stackoverflow.com/) and found an example for each.
 
-<img class="ui tiny right spaced image" src="../images/Not-So-Smart.jpg">
+<img class="ui tiny right spaced image" src="../images/Not-So-Smart.PNG">
 
 ## Not-So-Smart
 
@@ -29,7 +29,7 @@ Aside from the header of the post, the user is very undescriptive in the content
 
 The user ends their question with a snippet of their code and "Please help, I need to add the button which submit the text in input and check,if it right". The English in this question is hard to understand, and there's no inclusion of errors or what has been done to try and do what is desired so far. The user seems to demand more of an open tutorial, rather than a clear answer.  
 
-<img class="ui tiny right spaced image" src="../images/Smart.jpg">
+<img class="ui tiny right spaced image" src="../images/Smart.PNG">
 
 ## Smart
 
@@ -39,7 +39,7 @@ The user gives a good description of what they want to do, as they say "i needed
 
 Although this question contains some smart aspects, it can be improved to be even smarter. The English of the post seems to be a little off, as there are a few grammatical errors with capitalization and punctuation. There's also a lack of explanation of what environment the user is running this on, such as what version of discord.py they're using, or what version of Python they're using. In this case, these didn't make too much of a difference, but they often will make a difference in how the code will be typed.
 
-<img class="ui tiny right spaced image" src="../images/Smartest.jpg">
+<img class="ui tiny right spaced image" src="../images/Smartest.PNG">
 
 ## Smartest
 
