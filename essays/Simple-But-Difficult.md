@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui medium fluid image" src="../images/semantic.png" alt="semantic image">
+<img class="ui centered medium fluid image" src="../images/semantic.png" alt="semantic image">
 
 ## Semantic UI
 
