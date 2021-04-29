@@ -7,12 +7,12 @@ date: 2021-04-28
 labels:
 ---
 
-<img class="ui left floated medium fluid image" src="../images/MVC-Process.png" alt="MVC image">
+<img class="ui left floated medium image" src="../images/MVC-Process.png" alt="MVC image">
 
 ## Design Patterns
 Design patterns are reusable solutions to problems that commonly occur in different disciplines. The first question that popped into my mind when I heard about design patterns was "why?". Why study these design patterns, when we can find our own solutions to these problems, since problems in design are often very broad, and often can't apply to a single pattern; however, after learning a bit more and thinking about these patterns, I realized that design patterns are used everywhere. I also have used design patterns, without even knowing it.
 
-<img class="ui left floated medium fluid image" src="../images/robot1.jpg" alt="robot image">
+<img class="ui left floated medium image" src="../images/robot1.jpg" alt="robot image">
 
 ## A Look to the Past
 In the past, I have extensively used design patterns, and not only in my software engineering projects, but also in robotics. In robotics, in every competition, we would brainstorm ideas for different mechanisms that would solve the hurdles we would have to overcome for the competition. These mechanisms that we brainstormed, at least the most successful ones, were often modeled after previous inventions. That way, we were using design patterns to solve our own problems in an efficient manner.
