@@ -16,7 +16,9 @@ summary: A project that I did for my PHYS 151L as a way to visualize electric fi
 <div class="ui centered grid container">
 	<div class="ui small rounded images">
   		<img class="ui image" src="../images/Field.png" alt="Field 3D image">
+		<img class="ui image" src="../images/Field2.png" alt="Field 3D image">
   		<img class="ui image" src="../images/Field2D.png" alt="Field 2D image">
+		<img class="ui image" src="../images/Field2D2.png" alt="Field 2D image">
 	</div>
 </div>
 
