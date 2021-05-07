@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Software Engineering Takeaways
 # All dates must be YYYY-MM-DD format!
-date: 05/06/2021
+date: 2021-05-06
 labels:
   - Software Engineering
   - Ethics
