@@ -5,8 +5,8 @@ title: Why Design Patterns?
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-28
 labels:
-  - Design Patterns
   - Software Engineering
+  - Design Patterns
 ---
 
 <img class="ui small left floated image" src="../images/MVC-Process.png" alt="MVC image">
