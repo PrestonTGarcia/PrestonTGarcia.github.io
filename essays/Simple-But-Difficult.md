@@ -49,7 +49,7 @@ Recently, I've been learning how to use Semantic UI with a little bit of CSS to 
 }
 ```
 
-After hearing about this simplicity and natural language, my first thought was "Wow, Semantic UI is super convenient, and is gonna be a piece of cake". I was far from correct, as regardles of its simplicity, learning Semantic UI was just as difficult as learning a whole new programming language. This begs the question: is learning Semantic UI over HTML and CSS worth the difficulty? In my opinion, the benefits of Semantic UI such as its predictability and simplicity outweigh the difficulties of learning Semantic UI.
+After hearing about this simplicity and natural language, my first thought was "Wow, Semantic UI is super convenient, and is going to be a piece of cake". I was far from correct, as regardless of its simplicity, learning Semantic UI was just as difficult as learning a whole new programming language. This begs the question: is learning Semantic UI over HTML and CSS worth the difficulty? In my opinion, the benefits of Semantic UI such as its predictability and simplicity outweigh the difficulties of learning Semantic UI.
 
 <img class="ui tiny left circular floated image" src="../images/documentation.png" alt="documentation image">
 
@@ -61,8 +61,9 @@ Semantic UI has predictability in two ways, predictability in syntax, and predic
 
 ## Simplicity
 
-Looking at the code shown comparing Semantic UI to raw HTML and CSS, it's easy to see how much more simple the Semantic UI components are. The Semantic UI code requires only 5 lines of HTML, while the raw HTML and CSS required 3 lines of HTML and 12 lines of CSS in order to do the same thing. The raw HTML and CSS is also not dynamic with different screen sizes like Semantic UI is. This simplicity of the code helps far more than expected, as it allows us to focus more on the organization and coding standards of our code, which will go a long way. 
+Looking at the code shown comparing Semantic UI to raw HTML and CSS, it is easy to see how much simpler the Semantic UI components are. The Semantic UI code requires only 5 lines of HTML, while the raw HTML and CSS required 3 lines of HTML and 12 lines of CSS to do the same thing. The raw HTML and CSS is also not dynamic with different screen sizes like Semantic UI is. This simplicity of the code helps far more than expected, as it allows us to focus more on the organization and coding standards of our code, which will go a long way. 
 
 ## Conclusion
 
-Semantic UI is just like any other external programming language, or even engineering and physics as while it is difficult to learn and perform sometimes, it allows us to perform more efficiently. Semantic UI has benefits of predictability with its natural language and documentaiton, and simplicity with its improvement of organization and coding standards.  
+Semantic UI is just like any other external programming language, or even engineering and physics as while it is difficult to learn and perform sometimes, it allows us to perform more efficiently. Semantic UI has benefits of predictability with its natural language and documentation, and simplicity with its improvement of organization and coding standards.  
+
