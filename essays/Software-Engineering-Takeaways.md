@@ -24,7 +24,7 @@ Looking at the field of software engineering, you might wonder how ethics has im
 ##Coding Standards
 Coding standards are the constraints that we follow in order to type readable, efficient code. In this semester, we learned about ESLint, which is a code analysis tool that gives errors when coding standards are violated. These coding standards vastly increase readability and efficiency of our code, as I've experienced in making [music match](https://music-match.github.io/) with my developer team. In the future, I will most definitely be working with a team for my career projects, so I intend to follow some sort of coding standard, and like how we did in ICS 314, use a code analysis tool to enforce this. This way, we can ensure that our code will be efficient, and we won't have as much ambiguity when reading edits and code made by other developers on our team.
 
-<img class="ui tiny left floated image" src="../images/agile.jpg" alt="agile project image">
+<img class="ui tiny left floated image" src="../images/agile.png" alt="agile project image">
 
 ##Agile Project Management
 Agile project management is the creation and management of a project using multiple iterations of the project. In this sense, the project has an agile life cycles. One agile project management model that we followed in ICS 314 was the issue driven project management model, where we find issues in our product and have them posted on a project board to be fixed. This reminds me of how in robotics we would use a similar scrum system. When leading a development team in the future, I plan to use this agile project management system, so that we can consistently improve the software and product that we provide.
