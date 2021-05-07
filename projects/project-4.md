@@ -14,8 +14,8 @@ summary: A project that I did for my PHYS 151L as a way to visualize electric fi
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Field.png>
-  <img class="ui image" src="../images/Field2D.png>
+  <img class="ui image" src="../images/Field.png">
+  <img class="ui image" src="../images/Field2D.png">
 </div>
 
 This program can take the position of two charged particles and their respective charges, and show the resulting electric field of the two particles, with colors representing the strength of the field, and arrows representing the direction of the electric force at a certain point on the graph.
