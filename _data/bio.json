@@ -52,7 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "HTML/CSS/Javascript",
         "Python"
       ]
     },
@@ -79,22 +79,22 @@
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Computer Science",
+      "area": "Natural Sciences, Information and Communication Technology Focus",
       "studyType": "A.S.",
       "startDate": "2019-08-01",
-      "endDate": "Present (expected Spring, 2021)",
+      "endDate": "2021-05-14",
       "gpa": "3.98",
-      "courses": ["ICS 211, ICS 212, ICS 241, IS 250H, PHYS 152 (current)"
+      "courses": ["ICS 211, ICS 212", "ICS 241", "IS 250H", "PHYS 152, PHYS 152L"
       ]
     },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Computer Science, Data Science",
       "studyType": "B.S.",
       "startDate": "2021-08-01",
-      "endDate": "Present (expected Spring, 2023",
+      "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 314(current), ICS 311(current)"
+      "courses": ["ICS 314", "ICS 311"
       ]
     }
   ],
@@ -120,8 +120,7 @@
       "endDate": "Present",
       "summary": "Tutor students in classes that I was assigned to.",
       "highlights": [
-        "Tutor Leeward Community College students in ICS courses.",
-        "Tutor Leeward Community College students in JPN courses.",
+        "Tutor Leeward Community College students in ICS, JPN, and CHEM courses.",
         "Hold review sessions if requested by professors."
       ]
     }
@@ -132,7 +131,7 @@
       "website": "https://hanaiia.wixsite.com/leewardcc",
       "position": "Ambassador",
       "startDate": "2020-08-06",
-      "endDate": "Present",
+      "endDate": "2021-05-14",
       "summary": "Create website for Hanai Ia Leeward and help out at food distributions",
       "highlights": [
         "Helped distribute food to students who signed up.",
@@ -157,7 +156,7 @@
   "awards": [
     {
       "title": "Leeward Community College Honors Program",
-      "date": "2019-Present (Expected when I graduate from Leeward)",
+      "date": "2021-05-14",
       "awarder": "Leeward Community College",
       "summary": "Awarded to students at Leeward Community College who pass an honors course(IS 250H) and attain a GPA at 3.7 or above."
     },
