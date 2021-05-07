@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page.PNG
+image: images/landing-page.png
 title: Music Match Website
 permalink: projects/Projectile_Motion
 # All dates must be YYYY-MM-DD format!
