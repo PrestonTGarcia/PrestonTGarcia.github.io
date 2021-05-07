@@ -13,9 +13,11 @@ labels:
 summary: A project that I did for my PHYS 151L as a way to visualize electric fields, since they're impossible to see with the naked eye.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Field.png" alt="Field 3D image">
-  <img class="ui image" src="../images/Field2D.png" alt="Field 2D image">
+<div class="ui centered grid container>
+	<div class="ui small rounded images">
+  		<img class="ui image" src="../images/Field.png" alt="Field 3D image">
+  		<img class="ui image" src="../images/Field2D.png" alt="Field 2D image">
+	</div>
 </div>
 
 This program can take the position of two charged particles and their respective charges, and show the resulting electric field of the two particles, with colors representing the strength of the field, and arrows representing the direction of the electric force at a certain point on the graph.
