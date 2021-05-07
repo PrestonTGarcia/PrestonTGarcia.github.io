@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Projectile Motion.PNG
-title: Projectile Motion Visualization
+image: images/landing-page.PNG
+title: Music Match Website
 permalink: projects/Projectile_Motion
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-06
