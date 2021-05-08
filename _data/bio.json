@@ -75,7 +75,7 @@
       "startDate": "2015-08-01",
       "endDate": "2019-05-19",
       "gpa": "3.4",
-      "courses": ["AP Computer Science Principles", "AP Physics", "AP Calculus BC"
+      "courses": ["AP Computer Science Principles", "AP Calculus BC", "AP Physics"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "startDate": "2019-08-01",
       "endDate": "2021-05-14",
       "gpa": "3.98",
-      "courses": ["ICS 211, ICS 212", "ICS 241", "IS 250H", "PHYS 152, PHYS 152L"
+      "courses": ["ICS 211, ICS 212, ICS 241", "IS 250H", "PHYS 152, PHYS 152L", "CHEM 162, CHEM 162L"
       ]
     },
     {
@@ -95,7 +95,7 @@
       "startDate": "2021-08-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 314", "ICS 311"
+      "courses": ["ICS 311", "ICS 314"
       ]
     }
   ],
