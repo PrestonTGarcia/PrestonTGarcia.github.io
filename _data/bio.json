@@ -52,8 +52,12 @@
         "C",
         "C++",
         "Java",
-        "HTML/CSS/Javascript",
-        "Semantic UI/React/Meteor",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Semantic UI",
+        "React",
+        "Meteor",
         "Python"
       ]
     },
