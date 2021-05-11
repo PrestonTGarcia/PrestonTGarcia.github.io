@@ -1,23 +1,22 @@
 ---
 layout: project
 type: project
-image: images/RandWalk.png
-title: Random Walker
-permalink: projects/Random_Walker
+image: images/Keno.png
+title: Keno
+permalink: projects/Keno
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-19
+date: 2021-05-11
 labels:
   - Java
-  - Computational Physics
+  - GUI
   - GitHub
-summary: A side project I did to compute project 3 on a computational physics project list.
+summary: A project I revisited after completing in ICS 211, a coure I took in my second semester of my studies.
 ---
 
-<img class="ui image" src="../images/WalkQuestion.PNG">
+<img class="ui image" src="../images/Keno.png">
 
-This program is a simulation of a person who can only walk one unit North, East, West, or South and is randomly generated which direction that the walker goes. I used Java to program this simulation, and had the program compute the answer to the first question in the project questions. In the [list of computational physics projects](http://ww2.odu.edu/~agodunov/teaching/phys420/projects.html), this project is project three. Although this project only answers number 1, I plan to make more methods to answer the other two questions of the project, and eventually have a visualization for this project.
+I initially created this program in ICS 211 in my second semester of college as a project that will allow me to learn GUI creation using [JFrame] (https://docs.oracle.com/javase/7/docs/api/javax/swing/JFrame.html) and [ArrayLists] (https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) in Java. I revisited this project since I did not use github back then, and my laptop broke down, so I did not have access to this project again. Originally, when doing this project, my algorithms were very inefficient, since I did not use the ArrayLists to their full potential, as I have realized in my revisiting of this project.
 
-Doing this project helped me experience more of the Math library of Java I haven't used before, for example, using the log function to make a log with a custom base, or using the sqrt function from the Math library. 
+In revisiting this project, I was able to refresh my knowledge in making GUIs in Java with JFrame as well as ArrayList methods. I can improve on this project by making it more modular, by packing the functionalities into methods rather than having raw code out. I could also improve this project by implementing some of the lists as hash tables instead, since the .contains method runs in linear time (O(n)) according to the ArrayList documentation; however, a hash table's .contains method runs in O(1) expected, so finding a way to implement this with hashtables will make the program more efficient.
 
-Source: <a href="https://github.com/PrestonTGarcia/RandomWalk"><i class="large github icon "></i>PrestonTGarcia/RandomWalk</a>
-
+Source: <a href="https://github.com/PrestonTGarcia/Keno"><i class="large github icon "></i>PrestonTGarcia/Keno</a>
