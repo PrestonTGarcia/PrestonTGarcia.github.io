@@ -13,7 +13,7 @@ labels:
 summary: A project I revisited after completing in ICS 211, a coure I took in my second semester of my studies.
 ---
 
-<img class="ui right floated image" src="../images/Keno.png">
+<img class="ui medium right floated image" src="../images/Keno.png">
 
 I initially created this program in ICS 211 in my second semester of college as a project that will allow me to learn GUI creation using [JFrame](https://docs.oracle.com/javase/7/docs/api/javax/swing/JFrame.html) and [ArrayLists](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) in Java. I revisited this project since I did not use github back then, and my laptop broke down, so I did not have access to this project again. Originally, when doing this project, my algorithms were very inefficient, since I did not use the ArrayLists to their full potential, as I have realized in my revisiting of this project.
 
