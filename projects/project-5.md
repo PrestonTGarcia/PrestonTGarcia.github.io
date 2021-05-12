@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing-page.png
 title: Music Match Website
-permalink: projects/Projectile_Motion
+permalink: projects/Music_Match
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-11
 labels:
