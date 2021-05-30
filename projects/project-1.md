@@ -9,8 +9,9 @@ date: 2021-01-18
 labels:
   - Robotics
   - C++
+  - Computer Vision
   - GitHub
-  - Teamwork
+  - Team
 summary: My high school's FIRST robotics team built a robot that made it to semi-finals in the FIRST Robotics Competition.
 ---
 

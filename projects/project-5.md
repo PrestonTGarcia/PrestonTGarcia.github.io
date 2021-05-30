@@ -10,7 +10,7 @@ labels:
   - Web Development
   - Github
   - Agile Project Management
-  - Teamwork
+  - Team
 summary: A website we created as a final project for our ICS 314 class.
 ---
 

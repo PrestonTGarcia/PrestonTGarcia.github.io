@@ -9,6 +9,7 @@ date: 2021-05-11
 labels:
   - Java
   - GUI
+  - Game
   - GitHub
 summary: A project I revisited after completing in ICS 211, a coure I took in my second semester of my studies.
 ---

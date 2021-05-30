@@ -9,6 +9,8 @@ date: 2021-05-06
 labels:
   - Python
   - Computational Physics
+  - Data Visualization
+  - GUI
   - GitHub
 summary: A project that I did for my PHYS 152L as a way to visualize electric fields.
 ---
