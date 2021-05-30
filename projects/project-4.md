@@ -10,7 +10,7 @@ labels:
   - Python
   - Computational Physics
   - GitHub
-summary: A project that I did for my PHYS 151L as a way to visualize electric fields.
+summary: A project that I did for my PHYS 152L as a way to visualize electric fields.
 ---
 
 <div class="ui small rounded images">
