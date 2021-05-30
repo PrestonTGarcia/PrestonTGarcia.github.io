@@ -156,7 +156,19 @@
       "highlights": [
         "Organized Fellowship events for members.",
         "Take notes on executive board meetings.",
-        "Assist in Honors in Action Project"
+        "Assist in Honors in Action Project."
+      ]
+    },
+    {
+      "organization": "ACM: Programming and Algorithms - PANDA"
+      "website": "acmanoa.github.io/panda/",
+      "position": "Member",
+      "startDate": "2021-02-18",
+      "endDate": "Present",
+      "summary": "Part of UH Manoa's PANDA RISO",
+      "highlights": [
+        "Attend weekly meetings during the semester.",
+        "Participate in practice algorithm problems and interviews."
       ]
     }
   ],
