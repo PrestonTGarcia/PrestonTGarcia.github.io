@@ -1,24 +1,25 @@
 ---
 layout: project
 type: project
-image: images/spsp.png
-title: Pathfinding Algorithms
-permalink: projects/Pathfinding
+image: images/landing-page.png
+title: Music Match Website
+permalink: projects/Music_Match
 # All dates must be YYYY-MM-DD format!
-date: 2021-07-01
+date: 2021-05-11
 labels:
-  - Algorithms
-  - Visualization
-  - Python
-summary: An algorithm visualization and comparison for shortest path algorithms: specifically Dijkstra's and Bellman-Fords algorithms.
+  - Web Development
+  - Github
+  - Agile Project Management
+  - Team
+summary: A website we created as a final project for our ICS 314 class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/spsp.png">
+<img class="ui medium right floated rounded image" src="../images/landing-page.png">
 
-The shortest path problem in computer science is the problem of finding the shortest path between two vertices or nodes in a graph. Last semester during my Spring semester, I learned of this problem and some solutions to the problem that can solve it in a reasonable amount of time. The two algorithms I learned that solve this problem are Dijkstra's and Bellman-Ford's algorithms. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) takes a greedy algorithm approach and checks adjacent nodes for the shortest distance between it's neighbors, then does the same thing with the shortest distanced neighbor until the end is found, then the path is reconstructed. Although negative edges are not allowed in Dijkstra's algorithm, it runs in O(V + E log V). The [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) takes a dynamic programming approach and maps the shortest path from the source to all of the vertices, then reconstructs the path to the destination node. The Bellman-Ford algorithm can detect negative cycles, and runs in O(VE).
+In this website, we were tasked to create a website that allows UH musicians to network with each other, share eachother's jams, and comment on each other's jams. I worked on this project with other ICS 314 classmates, and named the website [Music Match](https://music-match.github.io/). We used an issue driven project management system to designate our tasks, where we would find issues in our project and add them as issues on our next milestone for the website. 
 
-In this project, I used [Python's Pygame library](https://www.pygame.org/) to allow users to set a source node and a destination node on the grid and compare both of the algorithms. Using pygame, users are also allowed to turn nodes into barriers on the grid, and find the path without passing through those barriers. Users are also able to edit the edge weights of nodes, reset the grid, and choose to visualize the Bellman-Ford or Dijkstra's algorithm. The program calculates one of the algorithms and visualizes it, while the other one is calculated without any visualization, and a pop up window shows a comparison between the operations needed between the two. 
+I contributed to the behavior of many of the site's pages, such as the create jams, searchbars, redirects to other pages, and tests, as well as helped manage the issues on Github. We used [Meteor](https://www.meteor.com/) with [React](https://reactjs.org/) and [Semantic UI](https://semantic-ui.com/) to create this website.
 
-In creating this project, I was able to see how much of a difference the runtime is between Bellman-Ford and Dijkstra's algorithm is, as often times when testing the program Dijkstra's algorithm ran much faster than Bellman-Fords due to the large amount of vertices and edges in the grid. I was also able to learn how pygame works, as well as learn how much faster dictionaries are than lists, since the dictionaries act as sets. Currently, the program does not notify the user of the controls, and I can improve the program by implementing that. I could also implement Dijkstra's algorithm using Fibonacci heaps instead of normal sets, and make comparisons between the two.
+Through the process of creating this website, I experienced what it was like to work on a programming project with a group, and how to use issue driven project management with Github. I also learned of how hosting sites and programs work through Digital Ocean.
 
-Source: <a href="https://github.com/PrestonTGarcia/Pathfinder"><i class="large github icon"></i>PrestonTGarcia/Pathfinder</a>
+Source: <a href="https://github.com/music-match/music-match"><i class="large github icon"></i>music-match/music-match</a>
