@@ -13,7 +13,7 @@ labels:
 summary: An algorithm visualization and comparison for shortest path algorithms: specifically Dijkstra's and Bellman-Fords algorithms.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/sssp.png">
+<img class="ui medium right floated rounded image" src="../images/spsp.png">
 
 The shortest path problem in computer science is the problem of finding the shortest path between two vertices or nodes in a graph. Last semester during my Spring semester, I learned of this problem and some solutions to the problem that can solve it in a reasonable amount of time. The two algorithms I learned that solve this problem are Dijkstra's and Bellman-Ford's algorithms. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) takes a greedy algorithm approach and checks adjacent nodes for the shortest distance between it's neighbors, then does the same thing with the shortest distanced neighbor until the end is found, then the path is reconstructed. Although negative edges are not allowed in Dijkstra's algorithm, it runs in O(V + E log V). The [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) takes a dynamic programming approach and maps the shortest path from the source to all of the vertices, then reconstructs the path to the destination node. The Bellman-Ford algorithm can detect negative cycles, and runs in O(VE).
 
