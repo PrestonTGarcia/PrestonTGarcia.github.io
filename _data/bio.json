@@ -88,7 +88,7 @@
       "startDate": "2021-08-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 321(Concurrent)", "ICS 311", "ICS 314"
+      "courses": ["ICS 321", "ICS 311", "ICS 314"
       ]
     }
   ],
@@ -98,7 +98,7 @@
       "position": "Math Lab Student Assistant",
       "website": "https://www.leeward.hawaii.edu/mathlab",
       "startDate": "2019-10-30",
-      "endDate": "Present",
+      "endDate": "2021-08-14",
       "summary": "Tutor students in MATH classes up to MATH 244",
       "highlights": [
         "Log students tutored onto spreadsheets.",
@@ -111,7 +111,7 @@
       "position": "Content Tutor",
       "website": "http://www2.leeward.hawaii.edu/lrc/",
       "startDate": "2020-09-07",
-      "endDate": "Present",
+      "endDate": "2021-08-14",
       "summary": "Tutor students in classes that I was assigned to.",
       "highlights": [
         "Tutor Leeward Community College students in ICS, JPN, and CHEM courses.",
@@ -151,8 +151,8 @@
       "website": "http://leewardptk.weebly.com/",
       "position": "Vice President of Fellowship and Secretary",
       "startDate": "2021-01-15",
-      "endDate": "Present",
-      "summary": "Part of Leeward Community College's Phi Theta Kappa chapter's executive board",
+      "endDate": "2021-05-14",
+      "summary": "Part of Leeward Community College's Phi Theta Kappa honors society's executive board",
       "highlights": [
         "Organized Fellowship events for members.",
         "Take notes on executive board meetings.",
@@ -160,15 +160,41 @@
       ]
     },
     {
+      "organization": "Phi Theta Kappa Alpha Lambda Gamma Chapter",
+      "website": "http://leewardptk.weebly.com/",
+      "position": "President",
+      "startDate": "2021-05-14",
+      "endDate": "Present",
+      "summary": "President of Leeward Community College's Phi Theta Kappa honors society chapter",
+      "highlights": [
+        "Lead any meetings/events for Alpha Lambda Gamma Chapter.",
+        "Take notes on executive board meetings.",
+        "Lead Honors in Action Project."
+      ]
+    },
+    {
       "organization": "ACM: Programming and Algorithms - PANDA",
-      "website": "acmanoa.github.io/panda/",
+      "website": "https://acmanoa.github.io/panda/",
       "position": "Member",
       "startDate": "2021-02-18",
       "endDate": "Present",
-      "summary": "Part of UH Manoa's PANDA RISO",
+      "summary": "Part of UH Manoa's PANDA RIO",
       "highlights": [
         "Attend weekly meetings during the semester.",
         "Participate in practice algorithm problems and interviews."
+      ]
+    },
+    {
+      "organization": "Technology Outreach Hawaii - TORCH",
+      "website": "https://techoutreachhi.org/",
+      "position": "Volunteer",
+      "startDate": "2021-07-06",
+      "endDate": "Present",
+      "summary": "Volunteer helping with TORCH's vision - Bridging the digital divide.",
+      "highlights": [
+        "Host a monthly workshop.",
+        "Hold weekly coding sessions.",
+        "Create Discord server for event participants."
       ]
     }
   ],
