@@ -48,15 +48,12 @@
       "level": "",
       "keywords": [
         "Python",
-        "Javascript",
+        "HTML/CSS/JS",
         "Semantic UI",
         "React",
         "Meteor",
         "Java",
-        "HTML",
-        "CSS",
-        "C++",
-        "C",
+        "C/C++",
         "SQL"
       ]
     },
@@ -194,7 +191,7 @@
       "title": "Leeward Community College Honors Program",
       "date": "2021-05-14",
       "awarder": "Leeward Community College",
-      "summary": "Awarded to students at Leeward Community College who pass an honors course(IS 250H) and attain a GPA at 3.7 or above."
+      "summary": "Awarded to students at Leeward Community College who pass an honors course (IS 250H) and attain a GPA at 3.7 or above."
     },
     {
       "title": "Phi Theta Kappa Hallmark Award",
