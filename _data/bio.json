@@ -6,7 +6,7 @@
     "email": "prestontgarcia@gmail.com",
     "phone": "808-397-8075",
     "website": "https://prestontgarcia.github.io/",
-    "summary": "I am currently studying at the University of Hawaii at Manoa for a B.S. in Computer Science with a minor in physics. I am planned to graduate in the Spring of 2023. I intend to grow my skills to eventually become a data scientist or a computational scientist to make a positive impact on the world.",
+    "summary": "I am currently studying at the University of Hawaii at Manoa for a B.S. in Computer Science with a minor in physics and mathematics. I am planned to graduate in the Spring of 2023. I intend to use my data science skills to contribute to physics and engineering discoveries.",
     "location": {
       "city": "Mililani",
       "countryCode": "USA",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Robotics",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -78,7 +78,9 @@
       "startDate": "2019-08-01",
       "endDate": "2021-05-14",
       "gpa": "3.98",
-      "courses": ["ICS 211, ICS 212", "ICS 241", "IS 250H", "MATH 244", "PHYS 152, PHYS 152L", "CHEM 162, CHEM 162L"
+      "courses": [
+        "IS 250H Leadership Development",
+        "PHYS 274 General Physics III"
       ]
     },
     {
@@ -87,12 +89,32 @@
       "studyType": "B.S.",
       "startDate": "2021-08-01",
       "endDate": "Present",
-      "gpa": "3.82",
-      "courses": ["ICS 321", "ICS 311", "ICS 314"
+      "gpa": "3.66",
+      "courses": [
+        "ICS 435 Machine Learning Fundamentals",
+        "ICS 434 Data Science Fundamentals",
+        "MATH 372 Elementary Probability and Statistics",
+        "MATH 407 Numerical Analysis",
+        "ICS 496 Capstone Project",
+        "ICS 321 Database Systems I",
+        "ICS 311 Algorithms",
+        "ICS 314 Software Engineering I",
       ]
     }
   ],
   "work": [
+    {
+      "company": "UH Manoa Department of Engineering",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "summary": "Create scripts of heuristics for the vehicle routing problem",
+      "highlights": [
+        "Review research literature of vehicle routing problem heuristics",
+        "Create Python scripts of heuristics for vehicle routing problem",
+        "Meet with supervisor to discuss changes weekly"
+      ]
+    },
     {
       "company": "Leeward Community College Math Lab",
       "position": "Math Lab Student Assistant",
@@ -121,6 +143,32 @@
   ],
   "volunteer": [
     {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Lecturer",
+      "startDate": "2021-08-2021",
+      "endDate": "Present",
+      "summary": "Prepare materials and lecture 6th to 12th graders for website development",
+      "highlights": [
+        "Create weekly presentations, review quizzes, and mentor handouts.",
+        "Give lectures to 6th to 12th grade students on website development",
+        "Prepare students to create their own websites"
+      ]
+    },
+    {
+      "organization": "Mililani High School FIRST Robotics",
+      "website": "https://mililanirobotics.org/",
+      "position": "Mentor",
+      "startDate": "2019-08-01",
+      "endDate": "2021-12-01",
+      "summary": "Mentored high school students in FIRST Robotics",
+      "highlights": [
+        "Helped programming subteam with programming problems and practices.",
+        "Guided lead in learning programming over summer.",
+        "Refereed FIRST Tech Challenge and FIRST Lego League competitions"
+      ]
+    },
+    {
       "organization": "Leeward Community College Hanai Ia Leeward",
       "website": "https://hanaiia.wixsite.com/leewardcc",
       "position": "Ambassador",
@@ -134,71 +182,27 @@
       ]
     },
     {
-      "organization": "Mililani High School FIRST Robotics",
-      "website": "https://mililanirobotics.org/",
-      "position": "Mentor",
-      "startDate": "2019-08-01",
-      "endDate": "Present",
-      "summary": "Mentored high school students in FIRST Robotics",
-      "highlights": [
-        "Helped programming subteam with programming problems and practices.",
-        "Guided lead in learning programming over summer.",
-        "Refereed FIRST Tech Challenge and FIRST Lego League competitions"
-      ]
-    },
-    {
-      "organization": "Phi Theta Kappa Alpha Lambda Gamma Chapter",
-      "website": "http://leewardptk.weebly.com/",
-      "position": "Vice President of Fellowship and Secretary",
-      "startDate": "2021-01-15",
-      "endDate": "2021-05-14",
-      "summary": "Part of Leeward Community College's Phi Theta Kappa honors society's executive board",
-      "highlights": [
-        "Organized Fellowship events for members.",
-        "Take notes on executive board meetings.",
-        "Assist in Honors in Action Project."
-      ]
-    },
-    {
       "organization": "Phi Theta Kappa Alpha Lambda Gamma Chapter",
       "website": "http://leewardptk.weebly.com/",
       "position": "President",
       "startDate": "2021-05-14",
-      "endDate": "Present",
+      "endDate": "2021-12-01",
       "summary": "President of Leeward Community College's Phi Theta Kappa honors society chapter",
       "highlights": [
         "Lead any meetings/events for Alpha Lambda Gamma Chapter.",
         "Take notes on executive board meetings.",
         "Lead Honors in Action Project."
       ]
-    },
-    {
-      "organization": "ACM: Programming and Algorithms - PANDA",
-      "website": "https://acmanoa.github.io/panda/",
-      "position": "Member",
-      "startDate": "2021-02-18",
-      "endDate": "Present",
-      "summary": "Part of UH Manoa's PANDA RIO",
-      "highlights": [
-        "Attend weekly meetings during the semester.",
-        "Participate in practice algorithm problems and interviews."
-      ]
-    },
-    {
-      "organization": "Technology Outreach Hawaii - TORCH",
-      "website": "https://techoutreachhi.org/",
-      "position": "Volunteer",
-      "startDate": "2021-07-06",
-      "endDate": "Present",
-      "summary": "Volunteer helping with TORCH's vision - Bridging the digital divide.",
-      "highlights": [
-        "Host a monthly workshop.",
-        "Hold weekly coding sessions.",
-        "Create Discord server for event participants."
-      ]
     }
   ],
   "awards": [
+    {
+      "title": "Undergraduate Research Opportunities Program Funding",
+      "date": "2021-29-11",
+      "awarder": "Undergraduate Research Opportunities",
+      "summary": "Awarded to students who have an ongoing research project and undergo application process",
+      "amount": "$4,226"
+    },
     {
       "title": "Leeward Community College Honors Program",
       "date": "2021-05-14",
