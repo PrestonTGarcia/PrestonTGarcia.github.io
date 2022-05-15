@@ -13,7 +13,7 @@ labels:
 summary: An assignment finished in ICS 435 Machine Learning Fundamentals where we use machine learning to make a car race a track on it's own.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/carracer.png">
+<img class="ui medium right floated rounded image" src="../images/carracer.png" alt="Image of car simulation turning">
 
 Neural networks are a type of machine learning model, in which data is passed in, and that data is passed in through a network of weights, when applied creates nodes in the neural network. These weights are applied until we achieve output nodes, which is what we will be predicting in our classification problem. Convolutional neural networks (CNN) are a class of neural networks in which neural networks are applied to multidimensional data, such as an image. In this project, CNNs were used to train a model to drive a car in a small car racing game.
 
