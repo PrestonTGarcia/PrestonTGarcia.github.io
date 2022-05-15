@@ -4,13 +4,13 @@ type: project
 image: images/carracer.png
 title: Car Racer
 permalink: projects/Car_Racer
+# All dates must be YYYY-MM-DD format!
 date: 2022-05-14
 labels:
   - Artificial Intelligence
   - Machine learning
   - Computer Vision
-summary: An assignment finished in ICS 435 Machine Learning Fundamentals where
-we use machine learning to make a car race a track on it's own.
+summary: An assignment finished in ICS 435 Machine Learning Fundamentals where we use machine learning to make a car race a track on it's own.
 ---
 
 <div class="ui right floated embed" data-url="https://drive.google.com/file/d/177fbEcd0x9jMwGmZ0g1K53ZqBG75WaKQ/view?usp=sharing" data-placeholder="images/carracer.png"></div>
