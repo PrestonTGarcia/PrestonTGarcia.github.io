@@ -19,7 +19,7 @@ summary: A machine learning model I created with the objective of predicting whe
   <img class="ui image" src="../images/xgresults.png">
 </div>
 
-Machine learning models are created to estimate trends created by data. One type of problem that machine learning models can be applied to is classification, where you try to predict from a certain group of options. Many different models are possible to be used in these classification problems, such as logistic regression, random forests, xgboost, and neural networks. In this project, I optimized the hyperparameters for each of these machine learning models and compared their AUC score as well as their accuracies and confusion matrices.
+Decentral Smart Grid Control (DSGC) is a strategy used with electrical grids to classify whether an electrical grid is stable or unstable. AI is often used as a tool to reduce costs in this strategy. In this project, I optimized the hyperparameters for logistic regression, random forests, xgboost, and neural network models with this goal in mind.
 
 [Sklearn](https://scikit-learn.org/stable/) was used to create the logistic regression and random forest models, and the [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) module was used to optimize hyperparameters for each model except neural network. [Xgboost](https://xgboost.readthedocs.io/en/stable/python/python_api.html) was another model used, and to optimize neural networks hand tuning with a manual grid search was used with [Keras](https://keras.io/) to build the neural network. [Matplotlib](https://matplotlib.org/) was also used for the data analysis earlier in the notebook.
 
