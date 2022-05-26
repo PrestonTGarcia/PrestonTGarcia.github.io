@@ -16,7 +16,7 @@ summary: A machine learning model I created with the objective of predicting whe
   <img class="ui image" src="../images/pgraph.png">
   <img class="ui image" src="../images/taugraph.png">
   <img class="ui image" src="../images/ggraph.png">
-  <img class="ui image" src="../images/xgresults.png"
+  <img class="ui image" src="../images/xgresults.png">
 </div>
 
 Machine learning models are created to estimate trends created by data. One type of problem that machine learning models can be applied to is classification, where you try to predict from a certain group of options. Many different models are possible to be used in these classification problems, such as logistic regression, random forests, xgboost, and neural networks. In this project, I optimized the hyperparameters for each of these machine learning models and compared their AUC score as well as their accuracies and confusion matrices.
