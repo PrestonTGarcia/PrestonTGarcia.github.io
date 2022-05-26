@@ -4,8 +4,7 @@ type: project
 image: images/carracer.png
 title: Car Racer
 permalink: projects/Car_Racer
-# All dates must be YYYY-MM-DD format!
-date: 2022-05-14
+date: 2022-05-22
 labels:
   - Artificial Intelligence
   - Machine learning
