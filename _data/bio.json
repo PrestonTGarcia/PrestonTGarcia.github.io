@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Optimization",
+      "name": "Research",
       "keywords": [
       ]
     }
@@ -48,10 +48,10 @@
       "level": "",
       "keywords": [
         "Python",
+        "Tensorflow",
+        "Pytorch",
         "HTML/CSS/JS",
         "Semantic UI",
-        "React",
-        "Meteor",
         "Java",
         "C/C++",
         "SQL"
@@ -74,10 +74,10 @@
       "studyType": "A.S.",
       "startDate": "2019-08-01",
       "endDate": "2021-05-14",
-      "gpa": "3.98",
+      "gpa": "3.97",
       "courses": [
         "IS 250H Leadership Development",
-        "PHYS 274 General Physics III"
+        "ICS 212 Program Structure"
       ]
     },
     {
@@ -85,17 +85,15 @@
       "area": "Computer Science, Data Science",
       "studyType": "B.S.",
       "startDate": "2021-08-01",
-      "endDate": "Present",
-      "gpa": "3.81",
+      "endDate": "2023-05-13",
+      "gpa": "3.47",
       "courses": [
-        "ICS 435 Machine Learning Fundamentals",
+        "ICS 637 Deep Learning with Neural Networks",
+        "ICS 438 Big Data Analytics",
         "ICS 434 Data Science Fundamentals",
-        "MATH 372 Elementary Probability and Statistics",
-        "MATH 407 Numerical Analysis",
-        "ICS 496 Capstone Project",
-        "ICS 321 Database Systems I",
-        "ICS 311 Algorithms",
-        "ICS 314 Software Engineering I",
+        "MATH 414 Optimization: Theory and Methods",
+        "MATH 411 Linear Algebra",
+        "ICS 484 Data Visualization"
       ]
     }
   ],
