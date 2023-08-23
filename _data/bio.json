@@ -6,7 +6,7 @@
     "email": "prestontgarcia@gmail.com",
     "phone": "808-397-8075",
     "website": "https://prestontgarcia.github.io/",
-    "summary": "I am a graduated student from the University of Hawaii at Manoa, and former research assistant for the University of Hawaii at Manoa college of engineering. I earned my B.S. in Computer Science in the data science track, and a minor in mathematics.",
+    "summary": "I am a graduated student from the University of Hawaii at Manoa, and former research assistant for the University of Hawaii at Manoa College of Engineering. I earned my B.S. in computer science in the data science track, and a minor in mathematics.",
     "location": {
       "city": "Mililani",
       "countryCode": "USA",
@@ -27,17 +27,32 @@
   },
   "interests": [
     {
+      "name": "Research",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Community Involvement",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "Data Analysis",
+      "name": "Sustainability",
       "keywords": [
       ]
     },
     {
-      "name": "Research",
+      "name": "Programming",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Mathematics",
       "keywords": [
       ]
     }
