@@ -4,7 +4,7 @@ type: project
 image: images/contrailsky.png
 title: Contrail Identification
 permalink: projects/ContrailIdentification
-date: 08-09-2023
+date: 2023-08-09
 labels:
   - Image Segmentation
   - Machine Learning
