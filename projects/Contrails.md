@@ -12,7 +12,7 @@ labels:
 summary: A Kaggle competition tasked with identifying condensation trails in images of the sky.
 ---
 
-<img class="ui centered medium fluid image" src="../images/contrailresults.png" alt="contrail identification result">
+<img class="ui centered large fluid image" src="../images/contrailresults.png" alt="contrail identification result">
 
 Condensation trails (contrails) are clouds left behind from aircraft engine exhausts. These contrails contribute to climate change by trapping heat in the atmosphere, and thus researchers are putting an effort to identify these contrails in the sky as well as how much they will contribute to climate change, and has been validated in research to contribute approximately 1% of all human caused global warming. In this competition, a machine learning model that takes image frames of the sky at a given situation as input, and outputs a masked version where the contrails are segmented was to be produced. Data includes bands of images that were provided by NASA and NOAA's [GOES-16 Advanced Baseline Imager](https://www.goes-r.gov/spacesegment/abi.html) as described in the [Kaggle competition](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data).
 
