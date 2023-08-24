@@ -11,10 +11,7 @@ labels:
   - Sustainability
 summary: A month long Kaggle competition using data collected on environmental factors in Rwanda to predict CO2 emissions.
 ---
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/map.png" alt="Map of Rwanda CO2 emissions">
-  <img class="ui image" src="../images/rolling_mean.png" alt="Rolling mean graph">
-</div>
+<img class="ui medium right floated rounded image" src="../images/map.png" alt="Map of Rwanda CO2 Emissions">
 
 Carbon dioxide (CO<sub>2</sub>) is a prominent greenhouse gas and can be an indicator for climate change, so accurately monitoring these CO<sub>2</sub> is important in the process for fighting against climate change. Europe and North America both have systems that allow them to monitor CO<sub>2</sub> emissions, however, Africa has far less of these systems. The task of making a machine learning model that forecasts CO<sub>2</sub> emissions in Africa will allow for CO<sub>2</sub> monitoring where not possible previously due to these monitoring systems being difficult to implement. This project's task is to create a machine learning model that takes sulphur dioxide, carbon monoxide, nitrogen dioxide, formaldehyde, ultraviolet (UV) aerosol index, ozone, and cloud features as input, and outputs a forecasted CO<sub>2</sub> amount for a given location and time. Data was provided by [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) as described in the [Kaggle competition](https://www.kaggle.com/competitions/playground-series-s3e20/overview) for this project.
 
