@@ -12,7 +12,7 @@ labels:
 summary: Final group project in ICS 484 visualizing the effect of global warming on individual states.
 ---
 
-<div class="ui small rounded images">
+<div class="ui small fluid rounded images">
   <img class="ui centered image" src="../images/GlobalChloropleth.png">
   <img class="ui centered image" src="../images/GlobalTemperatures.png">
   <img class="ui centered image" src="../images/SeaLevel.png">
