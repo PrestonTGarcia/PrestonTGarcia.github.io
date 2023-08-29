@@ -12,10 +12,10 @@ labels:
 summary: Final group project in ICS 484 visualizing the effect of global warming on individual states.
 ---
 
-<div class="ui small centered rounded images">
-  <img class="ui image" src="../images/GlobalChloropleth.png">
-  <img class="ui image" src="../images/GlobalTemperatures.png">
-  <img class="ui image" src="../images/SeaLevel.png">
+<div class="ui small rounded images">
+  <img class="ui centered image" src="../images/GlobalChloropleth.png">
+  <img class="ui centered image" src="../images/GlobalTemperatures.png">
+  <img class="ui centered image" src="../images/SeaLevel.png">
 </div>
 
 The purpose of this project was to find a way to effectively visualize how global warming will affect different parts of the world, with a emphasis on how Hawaii would be affected, since Hawaii is projected to be one of the most affected areas from global warming. There are three focuses for the project: (1) how global warming has affected individual states around the world, and (2) how global warming is projected to affect states in the future. Data used in this project includes monthly temperatures by country from 1743-2013 for 243 countries as described in this [Kaggle page](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ). We used sea level rise data from 1993-2003 from this [Kaggle dataset](https://www.kaggle.com/datasets/jarredpriester/global-sea-level-rise).
