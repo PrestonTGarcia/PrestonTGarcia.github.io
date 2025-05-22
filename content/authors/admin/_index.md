@@ -48,7 +48,7 @@ education:
     summary: |
       GPA: 3.47/4.0
 
-      Graduated with minor in Mathematics. UROP Presentation on _Equity in Autonomous Vehicles (AV) Systems_. Supervised by [Roger Chen]. Presented at Undergraduate Showcase.
+      Graduated with minor in Mathematics. UROP Presentation on _Equity in Autonomous Vehicles (AV) Systems_. Supervised by [Dr. Roger Chen](https://www.cee.hawaii.edu/faculty-staff-main-2/2-faculty/chen/). Presented at Undergraduate Showcase.
 
       Courses included:
       - ICS 637 Deep Learning with Neural Networks
