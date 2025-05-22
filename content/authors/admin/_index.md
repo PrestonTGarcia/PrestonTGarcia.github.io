@@ -47,6 +47,7 @@ education:
     date_end: 2023-05-13
     summary: |
       GPA: 3.47/4.0
+
       Graduated with minor in Mathematics. UROP Presentation on _Equity in Autonomous Vehicles (AV) Systems_. Supervised by [Roger Chen]. Presented at Undergraduate Showcase.
 
       Courses included:
@@ -62,6 +63,7 @@ education:
     date_end: 2021-05-14
     summary: |
       GPA: 3.97/4.0
+
       Graduated with both General Honors and Phi Theta Kappa Honors.
 
       Courses included:
