@@ -41,37 +41,34 @@ interests:
   - Data Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. Computer Science, Data Science Track
+    institution: University of Hawaii at Manoa
+    date_start: 2021-08-01
+    date_end: 2023-05-13
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.47/4.0
+      Graduated with minor in Mathematics. UROP Presentation on _Equity in Autonomous Vehicles (AV) Systems_. Supervised by [Roger Chen]. Presented at Undergraduate Showcase.
+
+      Courses included:
+      - ICS 637 Deep Learning with Neural Networks
+      - ICS 484 Data Visualization
+      - ICS 438 Big Data Analytics
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Read Abstract'
+      url: 'https://manoa.hawaii.edu/undergrad/showcase/wp-content/uploads/2023/05/23S-US-Program-2023.05.05.pdf#page=55'
+  - area: A.S. Natural Science, Information and Communication Technology Focus
+    institution: Leeward Community College
+    date_start: 2019-08-01
+    date_end: 2021-05-14
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.97/4.0
+      Graduated with both General Honors and Phi Theta Kappa Honors.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - ICS 212 Program Structure
+      - IS 250H Leadership Development
+      - ICS 211 Introduction to Computer Science II
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
