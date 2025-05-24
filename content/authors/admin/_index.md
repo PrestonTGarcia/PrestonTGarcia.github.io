@@ -21,17 +21,21 @@ role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+
   - name: RCUH
     url: https://www.rcuh.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+
   - icon: at-symbol
     url: 'prestontgarcia@gmail.com'
     label: E-mail Me
+
   - icon: brands/github
     url: https://github.com/PrestonTGarcia
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/preston-garcia-371112204/
 
@@ -41,6 +45,7 @@ interests:
   - Data Analysis
 
 education:
+
   - area: B.S. Computer Science, Data Science Track
     institution: University of Hawaii at Manoa
     date_start: 2021-08-01
@@ -57,6 +62,7 @@ education:
     button:
       text: 'Read Abstract'
       url: 'https://manoa.hawaii.edu/undergrad/showcase/wp-content/uploads/2023/05/23S-US-Program-2023.05.05.pdf#page=55'
+
   - area: A.S. Natural Science, Information and Communication Technology Focus
     institution: Leeward Community College
     date_start: 2019-08-01
@@ -72,38 +78,77 @@ education:
       - ICS 211 Introduction to Computer Science II
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+
+  - position: Data Scientist
+    company_name: Research Corporation of the University of Hawaii (RCUH)
+    company_url: 'https://www.rcuh.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-08-01
     date_end: ''
     summary: |2-
+      RCUH manages the applied research lab (ARL) at UH, who were awarded a
+      four-year contract to operate the Maui High Performance Computing Center
+      (MHPCC). A majority of my time was spent leveraging core competencies of
+      ARL at UH were to accomplish research on the high performance computing
+      systems at MHPCC.
+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Lead machine learning and data science efforts, mentoring team  as
+      needed.
+      - Work between multiple projects and manage time efficiently.
+      - Organize and present results in a way for stakeholders to easily
+      understand.
+
+  - position: Data Scientist
+    company_name: UH Manoa College of Engineering (CoE)
+    company_url: 'https://www.eng.hawaii.edu/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-10-30
+    date_end: 2021-08-14
+    summary: |
+      The UH Manoa CoE were awarded $700k in an effort upgrade many engineering
+      labs within their facilities to enhance research outcomes. One lab of
+      which being the Jacobs Traffic and Transportation Lab, where I would be
+      conducting my research.
+
+      Responsibilities include:
+      - Creating complex simulations of the household activity pattern problem
+      (HAPP).
+      - Use HAPP simulations to compare hypothetical autonomous rideshare
+      systems to Hawaii's developing skyline and current status quo.
+      - Visualize results of simulations through ArcGIS.
+
+  - position: Student Assistant
+    company_name: Leeward Community College Math Lab
+    company_url: 'https://www.leeward.hawaii.edu/mathlab'
+    company_logo: ''
+    date_start: 2019-10-30
+    date_end: 2021-08-14
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Tutor college students in Math courses from Algebra to Calculus IV.
+      - Work online through Zoom to comply with COVID-19 lockdown.
+
+  - position: Content Tutor
+    company_name: Leeward Community College Learning Resource Center
+    company_url: 'https://www.leeward.hawaii.edu/mathlab'
+    company_logo: ''
+    date_start: 2020-09-07
+    date_end: 2021-08-14
+    summary: |
+    Responsibilities include:
+      - Tutor college students in Computer Science, Chemistry, and Japanese. Organize study sessions with professors.
+      - Work online through Zoom to comply with COVID-19 lockdown.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Machine Learning
         description: ''
         percent: 100
-        icon: devicon/python
+        icon: devicon/pytorch
       - name: Data Science
         description: ''
         percent: 100
@@ -112,6 +157,8 @@ skills:
         description: ''
         percent: 80
         icon: devicon/linux
+
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
