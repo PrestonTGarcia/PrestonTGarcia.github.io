@@ -102,32 +102,32 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
+        percent: 100
+        icon: devicon/python
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/pandas
+      - name: Linux
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: devicon/linux
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: hero/cake
+      - name: Music
         description: ''
-        percent: 80
-        icon: camera
+        percent: hero/musical-note
+        icon: cat
+      - name: Puzzles
+        description: ''
+        percent: 50
+        icon: hero/puzzle-piece
 
 languages:
   - name: English
