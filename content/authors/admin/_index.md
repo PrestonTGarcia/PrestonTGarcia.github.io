@@ -185,6 +185,8 @@ languages:
     percent: 100
   - name: SQL
     percent: 85
+  - name: C++
+    percent: 55
 
 # Awards.
 #   Add/remove as many awards below as you like.
