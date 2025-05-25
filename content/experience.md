@@ -1,10 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
 type: landing
-
-design:
-  spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -32,6 +28,4 @@ sections:
     content:
       title: Languages
       username: admin
-    design:
-      show_skill_percentage: true
 ---
