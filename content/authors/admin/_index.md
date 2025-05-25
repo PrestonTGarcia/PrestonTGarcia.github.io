@@ -204,6 +204,7 @@ awards:
     url: https://www.leeward.hawaii.edu/academic-honors
     date: '2021-05-14'
     awarder: Leeward Community College
+    icon: "custom/lcc"
     summary: |
       Leeward Community College had awarded me honors for my work throughout my degree. To achieve honors at Leeward Community College, I applied for honors, maintained a 3.5 or above cumulative GPA, and completed an honors course (IS 250H), where I learned much about leadership styles.
   - title: 'Phi Theta Kappa Hallmark Award'
