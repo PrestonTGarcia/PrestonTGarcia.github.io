@@ -195,7 +195,7 @@ languages:
 awards:
   - title: Undergraduate Research Opportunities Program
     url: https://manoa.hawaii.edu/undergrad/urop/
-    date: '2021-29-11'
+    date: '2021-11-29'
     awarder: UH Manoa
     icon: "custom/uh"
     summary: |
