@@ -197,7 +197,7 @@ awards:
     url: https://manoa.hawaii.edu/undergrad/urop/
     date: '2021-29-11'
     awarder: UH Manoa
-    icon: custom/uh
+    icon: "custom/uh"
     summary: |
       Proposing my research project described in the UH Manoa section, I was able to be awarded $4,226 to complete the project and do a present the results and findings of my research project prior to my graduation at UH Manoa. The presentation was successful at UH Manoa's undergraduate showcase.
   - title: Leeward Community College Academic Honors Program
@@ -210,7 +210,7 @@ awards:
     url: https://www.ptk.org/chapters/alpha-lambda-gamma-chapter
     date: '2021-03-06'
     awarder: Phi Theta Kappa Pacific Region
-    icon: custom/ptk
+    icon: "custom/ptk"
     summary: |
       During my time as a fellowship officer in the Alpha Lambda Gamma chapter of the Phi Theta Kappa honors society, I was awarded the Phi Theta Kappa Hallmark Award for being a distinguished officer at the Phi Theta Kappa Pacific Region conference.
 ---
