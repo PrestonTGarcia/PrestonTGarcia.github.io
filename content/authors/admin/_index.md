@@ -177,12 +177,14 @@ skills:
         icon: hero/puzzle-piece
 
 languages:
-  - name: English
+  - name: Python
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Java
+    percent: 100
+  - name: HTML/CSS/JS
+    percent: 100
+  - name: SQL
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
