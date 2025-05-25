@@ -176,16 +176,6 @@ skills:
         percent: 50
         icon: hero/puzzle-piece
 
-languages:
-  - name: Python
-    percent: 100
-  - name: Java
-    percent: 100
-  - name: HTML/CSS/JS
-    percent: 100
-  - name: SQL
-    percent: 85
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
