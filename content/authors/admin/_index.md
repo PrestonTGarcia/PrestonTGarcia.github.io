@@ -131,12 +131,12 @@ work:
 
   - position: Content Tutor
     company_name: Leeward Community College Learning Resource Center
-    company_url: 'https://www.leeward.hawaii.edu/mathlab'
+    company_url: 'https://www.leeward.hawaii.edu/tutoring'
     company_logo: ''
     date_start: 2020-09-07
     date_end: 2021-08-14
     summary: |
-    Responsibilities include:
+      Responsibilities include:
       - Tutor college students in Computer Science, Chemistry, and Japanese. Organize study sessions with professors.
       - Work online through Zoom to comply with COVID-19 lockdown.
 
