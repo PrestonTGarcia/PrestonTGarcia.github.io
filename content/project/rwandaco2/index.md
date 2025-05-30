@@ -7,13 +7,13 @@ tags:
     - Atmospheric Sciences
 ---
 
-A Kaggle competition tasked with forecasting CO~2~ emissions in Rwanda.
+A Kaggle competition tasked with forecasting carbon dioxide (CO~2~) emissions in Rwanda.
 
 <!--more-->
 
 <!--INSERT IMAGE WHEN YOU GET HOME-->
 
-Accurate CO~2~ forecasting is important in the field for atmospheric sciences as it allows for climate change understanding and mitigation. Europe and North America both have systems in place to easily monitor CO~2~ emissions; however, in Africa, these systems aren't as prevalent, making it currently difficult to monitor CO~2~ emissions. This Kaggle competition was hosted for the task of creating an open source CO~2~ emission forecasting tool using machine learning techniques. Data collected from the [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) satellite served as the input for the machine learning models in development, and the forecasted amount of CO~2~ emissions was the output. Fields included in the data inputs were 75 columns with the latitude, longitude, year, and week number of the data recorded along with data regarding the sulphur dioxide, carbon monoxide, nitrogen dioxide, formaldehyde, UV aerosol index, ozone, and clouds recorded from the satellite.
+Accurate CO~2~ forecasting is important in the field for atmospheric sciences as it allows for climate change understanding and mitigation. Europe and North America both have systems in place to easily monitor CO~2~ emissions; however, in Africa, these systems aren't as prevalent, making it currently difficult to monitor CO~2~ emissions. This Kaggle competition was hosted for the task of creating an open source CO~2~ emission forecasting tool using machine learning techniques. Data collected from the [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) satellite served as the input for the machine learning models in development, and the forecasted amount of CO~2~ emissions was the output. Fields included in the data inputs were 75 columns with the latitude, longitude, year, and week number of the data recorded along with data regarding the SO~2~, CO, NO~2~, formaldehyde, UV aerosol index, ozone, and clouds recorded from the satellite.
 
 Experience with feature engineering, forecasting, and working with time series data in general was gained through participating in this Kaggle competition. Prior to this project, I had not worked with time series data, and all the data I had worked with would always be discrete. With this project, I was able to work with the concept of time windows and methods for gathering data through those time windows - such as rolling mean - which is commonly used to augment and connect entries within time series data.
 
