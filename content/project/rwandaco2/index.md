@@ -1,6 +1,6 @@
 ---
 title: Rwanda CO2 Forecasting
-date: 
+date: 2023-08-21
 tags: 
     - Forecasting
     - Machine Learning
