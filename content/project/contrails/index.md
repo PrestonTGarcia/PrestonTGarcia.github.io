@@ -1,10 +1,10 @@
 ---
 title: Contrail Identification
 date: 2023-08-09
-tags:
-  - Image Segmentation
-  - Machine Learning
-  - Atmospheric Sciences
+tags: 
+    - Image Segmentation
+    - Machine Learning
+    - Atmospheric Sciences
 ---
 
 A Kaggle competition tasked with identifying and segmenting condensation trails (contrails) in images of the sky.
