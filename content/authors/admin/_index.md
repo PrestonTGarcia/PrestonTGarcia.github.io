@@ -30,7 +30,7 @@ organizations:
 profiles:
 
   - icon: at-symbol
-    url: 'prestontgarcia@gmail.com'
+    url: 'mailto:prestontgarcia@gmail.com'
     label: E-mail Me
 
   - icon: brands/github
