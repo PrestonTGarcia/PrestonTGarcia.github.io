@@ -51,7 +51,7 @@ sections:
       filters:
         folders:
           - project
-          exclude_featured: true
+        exclude_featured: true
         design:
           view: article-grid
           columns: 3
