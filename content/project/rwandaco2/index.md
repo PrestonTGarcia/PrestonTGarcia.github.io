@@ -1,10 +1,11 @@
 ---
 title: Rwanda CO2 Forecasting
 date: 2023-08-21
-tags: 
+tags:
     - Forecasting
     - Machine Learning
     - Atmospheric Sciences
+featured: true
 ---
 
 A Kaggle competition tasked with forecasting carbon dioxide (CO<sub>2</sub>) emissions in Rwanda.
