@@ -218,4 +218,4 @@ awards:
 
 ## About Me
 
-Preston Garcia is a data scientist employed by the Research Corporation of the University of Hawaii (RCUH) at the Maui High Performance Computing Center (MHPCC). His research interests are applying ML and data analysis to science and the environment, particularly in atmospheric sciences. He leads many ML and data science efforts within his projects.
+My name is Preston Garcia and I am a data scientist employed by the Research Corporation of the University of Hawaii (RCUH) at the Maui High Performance Computing Center (MHPCC). My research interests are applying ML and data analysis to science and the environment, particularly in atmospheric sciences. Within my projects I commonly contribute using my technical skills and lead ML and data endeavors.
