@@ -52,9 +52,9 @@ sections:
         folders:
           - project
         featured_only: true
-        design:
-          view: article-grid
-          columns: 2
+    design:
+      view: article-grid
+      columns: 2
 
 
 ---
