@@ -30,23 +30,9 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-
-        My mission is to apply my research objectives to develop innovations that help the communities that I come from, whether that be the world, or where I grew up in - Hawai'i.
-
-        I work on projects relating to the applications of AI, ML, data science, and mathematics to physical science fields such as physics and atmospheric sciences.
-
-        Please feel free to reach out to collaborate.
-
-    design:
-      columns: '1'
   - block: collection
     content:
-      title: Featured Projects
+      title: 💻 Featured Projects
       text: ""
       filters:
         folders:
