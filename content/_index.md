@@ -45,13 +45,13 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: projects
     content:
       title: 'Featured Projects'
       subtitle: ''
       filters:
         folders:
           - project
-        featured_only: true
         design:
           view: article-grid
           columns: 3
