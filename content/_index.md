@@ -44,14 +44,14 @@ sections:
 
     design:
       columns: '1'
-  - block: markdown
-    id: projects
+  - block: collection
     content:
-      title: 'Featured Projects'
-      subtitle: ''
+      title: Featured Projects
+      text: ""
       filters:
         folders:
           - project
+          exclude_featured: true
         design:
           view: article-grid
           columns: 3
