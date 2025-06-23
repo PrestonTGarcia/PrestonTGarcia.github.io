@@ -5,7 +5,7 @@ tags:
     - Forecasting
     - Machine Learning
     - Atmospheric Sciences
-featured: true
+featured: false
 ---
 
 A Kaggle competition tasked with forecasting carbon dioxide (CO<sub>2</sub>) emissions in Rwanda.
