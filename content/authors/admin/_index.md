@@ -179,12 +179,12 @@ skills:
 languages:
   - name: Python
     percent: 100
+  - name: SQL
+    percent: 100
   - name: Java
     percent: 100
   - name: HTML/CSS/JS
     percent: 100
-  - name: SQL
-    percent: 85
   - name: C++
     percent: 55
 
