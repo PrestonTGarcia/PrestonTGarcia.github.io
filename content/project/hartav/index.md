@@ -5,7 +5,6 @@ tags:
     - Simulations
     - Data Analysis
     - Transportation Engineering
-featured: true
 ---
 
 A project posed by Honolulu Authority of Rapid Transportation (HART) of hypothetical autonomous vehicle (AV) rideshare system in Hawaii.
