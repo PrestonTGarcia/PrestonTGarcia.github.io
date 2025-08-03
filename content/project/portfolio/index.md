@@ -4,7 +4,7 @@ date: 2025-06-22
 tags:
     - Github
     - Web Development
-featured: true
+featured: false
 ---
 
 A professional portfolio recently redesigned to show off my professional blogs, publications, and projects.
